@@ -45,3 +45,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 <img width="623" alt="Superstore Sales Dashboard" src="https://github.com/abhijain1216/Superstore-Sales-Dashboard/assets/129052975/114df462-96d6-4092-8eec-d63de4dedeb3">
 
+### *Data Model*
+
+<img width="605" alt="Data Model" src="https://github.com/abhijain1216/Superstore-Sales-Dashboard/assets/129052975/018a798f-affd-46f1-b256-b7e306716837">
+
