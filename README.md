@@ -52,12 +52,28 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 ### *DAX Expressions Used*
 The DAX Expressions used for creating measures in the Measure Table are:
 * Total sales = CALCULATE(SUM(factSales[Sales]))
+  
 * YTD Sales = TOTALYTD([Total sales],'dimDate'[Date])
+  
 * LY YTD Sales = COALESCE(CALCULATE(TOTALYTD([Total sales],'dimDate'[Date]),SAMEPERIODLASTYEAR('dimDate'[Date])),0)
+  
 * YTD sales Growth % = CALCULATE(DIVIDE(([YTD Sales]-[LY YTD Sales]),[LY YTD Sales],0))
 
 Where,   
 YTD sales - Year-to-date sales   
 LY YTD Sales - Last Year-to-date sales
        
+DAX Expressions used for creating columns in Date table are:
+
+* Date = CALENDAR(MIN(factSales[Order Date]),MAX(factSales[Order Date]))
+  
+* Year = Format(dimDate[Date],"yyyy")
+  
+* Month = Format(dimDate[Date],"mmmm")
+  
+* Month year = FORMAT('dimDate'[Date],"MMM-YY")
+  
+* Quarter = "Q" & QUARTER(dimDate[Date])
+  
+* Month Number = Month(dimDate[Date])
 
