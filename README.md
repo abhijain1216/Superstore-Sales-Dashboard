@@ -49,3 +49,15 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 <img width="605" alt="Data Model" src="https://github.com/abhijain1216/Superstore-Sales-Dashboard/assets/129052975/018a798f-affd-46f1-b256-b7e306716837">
 
+### *DAX Expressions Used*
+The DAX Expressions used for creating measures in the Measure Table are:
+* Total sales = CALCULATE(SUM(factSales[Sales]))
+* YTD Sales = TOTALYTD([Total sales],'dimDate'[Date])
+* LY YTD Sales = COALESCE(CALCULATE(TOTALYTD([Total sales],'dimDate'[Date]),SAMEPERIODLASTYEAR('dimDate'[Date])),0)
+* YTD sales Growth % = CALCULATE(DIVIDE(([YTD Sales]-[LY YTD Sales]),[LY YTD Sales],0))
+
+Where,   
+YTD sales - Year-to-date sales   
+LY YTD Sales - Last Year-to-date sales
+       
+
