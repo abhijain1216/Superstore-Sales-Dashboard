@@ -77,3 +77,26 @@ DAX Expressions used for creating columns in Date table are:
   
 * *Month Number = Month(dimDate[Date])*
 
+### *Insights*
+
+* Peak sales occur in March, September, and November.
+
+* Total sales are highest for 2017 and minimum for 2015.
+
+* The West region has the highest sales and profits among all other regions, whereas the South stands last on the list.
+
+* California, New York, Pennsylvania, Texas, and Washington have the highest contribution in total sales and profits.
+
+* The lowest sales are in South Dakota, District of Columbia, Kansas, Maryland, and Nevada.
+
+* The least profitable states are Nevada, Oregon, Arkansas, Kansas,and North Carolina.
+
+* Subcategories like Phones, chairs, Binders, Storage and Tables are among the top selling goods, while Supplies, Art, Envelopes, Fasteners and labels are the lowest selling items.
+
+* Technology alone holds 51% of the total profit.Technology has the highest sales (836K) and profits (145K), followed by Furniture (742K sales, 18K profits) and Office Supplies (719K sales, 122K profits). 
+
+* From 2015 to 2016, growth in YTD sales was the highest. YTD sales in 2016 increased by 29.5% from 2015.
+
+* From 2014 to 2015, there was the highest downfall in sales of supplies by 86%.
+
+* For all years, quarterly sales is maximum for the fourth quarter.
