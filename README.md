@@ -40,3 +40,8 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 * **Sales** - Sales of the Product
 * **Quantity** - Quantity of the Product
 * **Profit** - Profit/Loss incurred
+
+### *Dashboard*
+
+<img width="623" alt="Superstore Sales Dashboard" src="https://github.com/abhijain1216/Superstore-Sales-Dashboard/assets/129052975/114df462-96d6-4092-8eec-d63de4dedeb3">
+
