@@ -100,3 +100,23 @@ DAX Expressions used for creating columns in Date table are:
 * From 2014 to 2015, there was the highest downfall in sales of supplies by 86%.
 
 * For all years, quarterly sales is maximum for the fourth quarter.
+
+
+
+### *Recommendations*
+
+* Increase marketing efforts for Office Supplies and Technology products during March to capitalize on the tax season.
+
+* Focus on Furniture, Technology and Office Supplies during September to target back-to-school/college sales.
+
+* Adopt different marketing and advertisement strategies to target the right audience.
+
+* Focus on increasing sales in states where sales and profit are very low when compared to other states, such as South Dakota, District of Columbia, Kansas, Maryland, Nevada, North Carolina, Arkansas, Oregon.
+
+* Increase efforts to improve profits in the South and Central Regions.
+
+* Conduct market research to understand the needs and preferences of customers in states with very low sales. Adopt a targeted marketing campaign to spread awareness about the brand and its products.
+
+* Continuously monitor and analyze sales and profit trends by product category and segment. Identify opportunities for cross-selling, upselling, and product diversification to maximize sales and profitability, particularly in the Technology, Office supplies, and Furniture categories.
+
+* Explore ways to enhance the customer experience and strengthen customer loyalty across all segments, with a particular focus on the Consumer segment, which has the highest sales. Implement personalized marketing initiatives, loyalty programs, and customer retention strategies to drive repeat business and increase customer lifetime value.
